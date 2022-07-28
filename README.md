@@ -23,6 +23,7 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [DevDocs](https://devdocs.io/) Documentacion sobre varios frameworks y lenguajes)
    * [DevResources](https://devresourc.es/) Una increible cantidad de recursos utiles para desarrolladores
    * [ShapeDivider](https://www.shapedivider.app/) Divisores para nuestras paginas
+   * [You.Code](https://you.com/code) Buscador enfocado en desarrolladores
 
   ### Artículos
    * [Guia para videos de fondo responsivos](https://redstapler.co/responsive-css-video-background/)
