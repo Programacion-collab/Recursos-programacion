@@ -22,8 +22,22 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [0x0](https://0x0.st/) Acortador de urls
    * [DevDocs](https://devdocs.io/) Documentacion sobre varios frameworks y lenguajes)
    * [DevResources](https://devresourc.es/) Una increible cantidad de recursos utiles para desarrolladores
+   * [ShapeDivider](https://www.shapedivider.app/) Divisores para nuestras paginas
 
   ### Artículos
    * [Guia para videos de fondo responsivos](https://redstapler.co/responsive-css-video-background/)
+   * [Guia de optimizaciones de video para mejorar la carga](https://www.keycdn.com/blog/video-optimization)
+   * [Carga diferida de videos](https://web.dev/lazy-loading-video/) Excelente post que explica como cargar videos de forma perezosa
+   * [Guia para enmascarar imagenes usando css](https://css-tricks.com/almanac/properties/m/mask-image/)
   ### Recursos
    * [El camino del frontend developer](https://github.com/mrcodedev/frontend-developer-resources) Un camino claro y detallado para aprender sobre frontend
+   * [MixKit](https://mixkit.co/) Pressets gratuitos para el desarrollo frontend
+   * [Coverr](https://coverr.co/es) Clips de video grtatuitos para nuestros proyectos.
+   * [Piqsels](https://www.piqsels.com/) Fotos de dominio publico que se pueden usar
+   * [Flaticon](https://www.flaticon.com/) Increible coleccion de iconos listos para usar
+   * [SvgRepo](https://www.svgrepo.com/) Increible coleccion de svgs.
+   * [IconScout](https://iconscout.com/) Millones de iconos y assets listos para descargar.
+
+  ### Videos
+  * [Curso de Figma desde cero](https://youtu.be/SqO_-olNvnU)
+
