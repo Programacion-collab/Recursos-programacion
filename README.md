@@ -30,6 +30,7 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [Guia de optimizaciones de video para mejorar la carga](https://www.keycdn.com/blog/video-optimization)
    * [Carga diferida de videos](https://web.dev/lazy-loading-video/) Excelente post que explica como cargar videos de forma perezosa
    * [Guia para enmascarar imagenes usando css](https://css-tricks.com/almanac/properties/m/mask-image/)
+   * [Guias sobre varios temas de front](https://terminaldelinux.com/terminal/) 
   ### Recursos
    * [El camino del frontend developer](https://github.com/mrcodedev/frontend-developer-resources) Un camino claro y detallado para aprender sobre frontend
    * [MixKit](https://mixkit.co/) Pressets gratuitos para el desarrollo frontend
