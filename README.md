@@ -8,7 +8,7 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 
 ## Recursos generales
   ### Herramientas online
-  * [DevHints](https://devhints.io/)
+  * [DevHints](https://devhints.io/) Cheatsheets de lo que se te ocurra
 
 ## Frontend
   ### Roadmap 
