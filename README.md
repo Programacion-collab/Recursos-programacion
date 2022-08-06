@@ -6,6 +6,10 @@ La idea básica de este repositorio es tener todo el material que se comparte en
 
 Dicho esto, ¡Todo PR es bienvenido! :)
 
+## Recursos generales
+  ### Herramientas online
+  * [DevHints](https://devhints.io/) Cheatsheets de lo que se te ocurra
+
 ## Frontend
   ### Roadmap 
   * [Frontend Roadmap](https://roadmap.sh/frontend)
