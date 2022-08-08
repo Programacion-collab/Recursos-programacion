@@ -65,4 +65,7 @@ Dicho esto, ¡Todo PR es bienvenido! :)
   ### Herramientas online 
   * [Git visualizing](http://git-school.github.io/visualizing-git/) Herramienta online para practicar Git de una forma muy gráfica.
   
+## Vim/Nvim
+  ### Introducción a Vim 
+  * [Vim-genius](http://www.vimgenius.com/) Herramienta interactiva aprender comandos de Vim. Ideal para principiantes (¡y no tan principiantes!).
 
