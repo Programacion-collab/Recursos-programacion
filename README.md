@@ -43,6 +43,7 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [Flaticon](https://www.flaticon.com/) Increible coleccion de iconos listos para usar
    * [SvgRepo](https://www.svgrepo.com/) Increible coleccion de svgs.
    * [IconScout](https://iconscout.com/) Millones de iconos y assets listos para descargar.
+   * [Iconify](https://iconify.design/) Miles de iconos de diferentes estilos (material, bootstrap etc...)
 
   ### Videos
   * [Curso de Figma desde cero](https://youtu.be/SqO_-olNvnU)
