@@ -1,6 +1,12 @@
 # Recursos-programacion
 
 Este repositorio pretende almacenar recursos gratuitos de programación. Quien desee colaborar, es bienvenido!
+Si no sabes bien como podes colaborar, podes seguir esta guia que te explica paso a paso como hacer para enviarnos tus colaboraciones :)
+
+[Como colaborar](https://app.tango.us/app/workflow/Agregar-recursos-al-repositorio-1ed46ee21387411c9f9ed4fbb3ae589f)
+
+
+
 
 La idea básica de este repositorio es tener todo el material que se comparte en el grupo de programación bien organizado y dentro de un solo lugar (este repo). Cualquiera puede colaborar con cursos, post de Internet, recursos, canales de yt u otras plataformas etc etc, lo único que se pide es que se respete la estructura de este fichero y que pongamos las cosas donde van, si hace falta crear una sección nueva solamente necesitas abrir un issue y la agregaremos con gusto.
 
@@ -44,6 +50,7 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [SvgRepo](https://www.svgrepo.com/) Increible coleccion de svgs.
    * [IconScout](https://iconscout.com/) Millones de iconos y assets listos para descargar.
    * [Iconify](https://iconify.design/) Miles de iconos de diferentes estilos (material, bootstrap etc...)
+   * [BoxIcons](https://boxicons.com/)
 
   ### Videos
   * [Curso de Figma desde cero](https://youtu.be/SqO_-olNvnU)
