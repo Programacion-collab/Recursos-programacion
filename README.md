@@ -15,6 +15,8 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Recursos generales
   ### Herramientas online
   * [DevHints](https://devhints.io/) Cheatsheets de lo que se te ocurra
+  ### 
+  * [JS-testing-best-Practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-es.md) Introducción al testing en JS y buenas prácticas
 
 ## Frontend
   ### Roadmap 
@@ -76,4 +78,3 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Vim/Nvim
   ### Introducción a Vim 
   * [Vim-genius](http://www.vimgenius.com/) Herramienta interactiva aprender comandos de Vim. Ideal para principiantes (¡y no tan principiantes!).
-
