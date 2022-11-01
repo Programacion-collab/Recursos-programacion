@@ -50,11 +50,13 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [SvgRepo](https://www.svgrepo.com/) Increible coleccion de svgs.
    * [IconScout](https://iconscout.com/) Millones de iconos y assets listos para descargar.
    * [Iconify](https://iconify.design/) Miles de iconos de diferentes estilos (material, bootstrap etc...)
-   * [BoxIcons](https://boxicons.com/)
+   * [Bootlin](https://bootlin.com/) Empresa de ingeniería especializada en Linux y en software libre, con muchos recursos para su aprendizaje
+   * [BoxIcons](https://boxicons.com/) Colección gratuita de iconos de código abierto 
+   
 
   ### Videos
   * [Curso de Figma desde cero](https://youtu.be/SqO_-olNvnU)
-  ### varios cursos gratuitos
+  ### Varios cursos gratuitos
   * [introduccion al desarrollo web frontend - clubargentec](https://clubargentec.org/itinerarios/introduccion-al-desarrollo-web-front-end/)
   * [html, css, and javascript for web developers - coursera](https://es.coursera.org/learn/html-css-javascript-for-web-developers)
   * [curso de introducción al desarrollo web: html y css (1/2 . google)](https://learndigital.withgoogle.com/activate/course/web-development-i) 
@@ -76,4 +78,11 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Vim/Nvim
   ### Introducción a Vim 
   * [Vim-genius](http://www.vimgenius.com/) Herramienta interactiva aprender comandos de Vim. Ideal para principiantes (¡y no tan principiantes!).
+
+## Linux 
+  ### Kernel
+  * [Funcionamiento del kernel linux](https://0xax.gitbooks.io/linux-insides/content/) Un libro _en progreso_ sobre el kernel de Linux y otros temas de bajo nivel.
+
+  * [Listado de versiones del kernel](https://elixir.bootlin.com/linux/latest/source) Todas las versiones del kernel
+  
 
