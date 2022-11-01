@@ -57,11 +57,9 @@ Dicho esto, ¡Todo PR es bienvenido! :)
   ### Videos
   * [Curso de Figma desde cero](https://youtu.be/SqO_-olNvnU)
   ### Varios cursos gratuitos
-  * [introduccion al desarrollo web frontend - clubargentec](https://clubargentec.org/itinerarios/introduccion-al-desarrollo-web-front-end/)
-  * [html, css, and javascript for web developers - coursera](https://es.coursera.org/learn/html-css-javascript-for-web-developers)
-  * [curso de introducción al desarrollo web: html y css (1/2 . google)](https://learndigital.withgoogle.com/activate/course/web-development-i) 
-  * [curso de introducción al desarrollo web: html y css (2/2 . google)](https://learndigital.withgoogle.com/activate/course/web-development-ii) 
-  * [desarrollador front-end - tutellus](https://formacion.tutellus.com/carreras/desarrollador-frontend?affref=d5a608f252ca4c778d20497fb6acad4d) 
+  * [Introducción al desarrollo web Front End - Clubargentec](https://clubargentec.org/itinerarios/introduccion-al-desarrollo-web-front-end/)
+  * [Html, Css, and Javascript for web developers - Coursera](https://es.coursera.org/learn/html-css-javascript-for-web-developers)
+  * [Desarrollador front-end - Tutellus](https://formacion.tutellus.com/carreras/desarrollador-frontend?affref=d5a608f252ca4c778d20497fb6acad4d) 
 
 ## Backend
   ### Roadmap 
@@ -82,7 +80,6 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Linux 
   ### Kernel
   * [Funcionamiento del kernel linux](https://0xax.gitbooks.io/linux-insides/content/) Un libro _en progreso_ sobre el kernel de Linux y otros temas de bajo nivel.
-
   * [Listado de versiones del kernel](https://elixir.bootlin.com/linux/latest/source) Todas las versiones del kernel
   
 
