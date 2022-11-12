@@ -34,6 +34,8 @@ Dicho esto, ¡Todo PR es bienvenido! :)
    * [DevResources](https://devresourc.es/) Una increible cantidad de recursos utiles para desarrolladores
    * [ShapeDivider](https://www.shapedivider.app/) Divisores para nuestras paginas
    * [You.Code](https://you.com/code) Buscador enfocado en desarrolladores
+   * [Python tutor](https://pythontutor.com/) Herramienta que visualiza graficamente paso por paso la ejecución de los programas
+
 
   ### Artículos
    * [Guia para videos de fondo responsivos](https://redstapler.co/responsive-css-video-background/)
