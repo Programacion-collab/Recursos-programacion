@@ -15,6 +15,8 @@ Dicho esto, ¡Todo PR es bienvenido! :)
 ## Recursos generales
   ### Herramientas online
   * [DevHints](https://devhints.io/) Cheatsheets de lo que se te ocurra
+  ### 
+  * [JS-testing-best-Practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-es.md) Introducción al testing en JS y buenas prácticas
 
 ## Frontend
   ### Roadmap 
@@ -83,5 +85,3 @@ Dicho esto, ¡Todo PR es bienvenido! :)
   ### Kernel
   * [Funcionamiento del kernel linux](https://0xax.gitbooks.io/linux-insides/content/) Un libro _en progreso_ sobre el kernel de Linux y otros temas de bajo nivel.
   * [Listado de versiones del kernel](https://elixir.bootlin.com/linux/latest/source) Todas las versiones del kernel
-  
-
